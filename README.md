@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="img/hexagon.png" width="600">
+  <img src="img/birthday-card.png" width="600">
   <br>
     <br>
   HTML & CSS - Interactive Birthday Card
